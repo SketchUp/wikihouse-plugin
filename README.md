@@ -28,12 +28,13 @@ The plugin will then appear in the list of other extensions, and all necessary f
 With the "Plugins" folder for SketchUp being by default:
 
 *  `C:\Program Files\Google\Google SketchUp 8\Plugins` On Windows.
-*  `/Library/Application Support/Google SketchUp 8/SketchUp/Plugins` On Mac.
+*  `[YOUR USER NAME]/Library/Application Support/Google SketchUp #/SketchUp/plugins` On Sketchup 8 Mac.
+*  `/Users/[YOUR USER NAME]/Library/Application Support/SketchUp 2013/SketchUp/Plugins` On Sketchup 2013 Mac.
 
 Download or clone repository and manually move the `wikihouse_extension_loader.rb` file
 as well as the `wikihouse-extension` folder plus all contents to the "Plugins" folder for SketchUp.
 
-Installation on previous versions of SketchUp (version 7 and bellow) has to be done the manual way. 
+Installation on previous versions of SketchUp (version 7 and below) has to be done the manual way. 
 
 ##License
 
